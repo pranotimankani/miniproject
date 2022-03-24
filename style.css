@@ -1,0 +1,66 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: mintcream;
+}
+.header {
+    position: absolute;
+    width: 100%;
+    padding: 20px;;
+    color: darkslategray;
+    border-bottom:25px ;
+
+}
+.position{
+    position: fixed;
+}
+
+#header{
+text-align: center;
+    top: 0;
+ width: 100%;
+}
+
+.style{
+
+    display:inline-block;
+    color: black;
+    text-align: right;
+    font-weight: bold;
+    width: 100%;
+
+}
+
+.main{
+    width: 100%;
+    text-align: center;
+    padding-top: 50;
+}
+
+#img{
+    width: 500px;
+    height: 500px;
+}
+
+section{
+    height:auto;
+width: fit-content;
+}
+
+#text{
+    text-align: center;
+}
+
+.form{
+    text-align: center;
+    color: aqua;
+}
+
+.container{
+    width: 80%;
+    margin: 0 auto; /* Center the DIV horizontally */
+}
+footer {
+    text-align: center;
+    padding: 3px;
+    color: black;
+  }
